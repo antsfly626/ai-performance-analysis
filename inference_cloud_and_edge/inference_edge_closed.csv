@@ -1,0 +1,47 @@
+﻿Public ID1,Organization1,Availability1,System Name (click + for details),Accelerator,# of Accelerators,Benchmark1,Model MLC1,Scenario1,Units1,# of Accelerators,# of Nodes,Accelerator,Host Processor Core Count,Processor,Avg. Result at System Name
+4.1-0012,ConnectTechInc,available,NVIDIA Jetson AGX Orin 64G (TensorRT) + CTI Forge Carrier (AGX201),NVIDIA Jetson AGX Orin 64G,1,Inference,gptj-99,SingleStream,Latency (ms),1,1,NVIDIA Jetson AGX Orin 64G,12,12-core ARM Cortex-A78AE CPU,4145.572039
+4.1-0012,ConnectTechInc,available,NVIDIA Jetson AGX Orin 64G (TensorRT) + CTI Forge Carrier (AGX201),NVIDIA Jetson AGX Orin 64G,1,Inference,gptj-99,Offline,Tokens/s,1,1,NVIDIA Jetson AGX Orin 64G,12,12-core ARM Cortex-A78AE CPU,64.0078
+4.1-0023,Dell,available,Dell PowerEdge XR8620t (1x L4 TensorRT),NVIDIA L4,1,Inference,retinanet,MultiStream,Latency (ms),1,1,NVIDIA L4,32,Intel(R) Xeon(R) Gold 6433N,42.019927
+4.1-0023,Dell,available,Dell PowerEdge XR8620t (1x L4 TensorRT),NVIDIA L4,1,Inference,retinanet,SingleStream,Latency (ms),1,1,NVIDIA L4,32,Intel(R) Xeon(R) Gold 6433N,4.830777
+4.1-0023,Dell,available,Dell PowerEdge XR8620t (1x L4 TensorRT),NVIDIA L4,1,Inference,retinanet,Offline,Samples/s,1,1,NVIDIA L4,32,Intel(R) Xeon(R) Gold 6433N,222.619
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,3d-unet-99,SingleStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,492.066482
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,3d-unet-99,Offline,Samples/s,2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,7.79867
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,bert-99,SingleStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,1.118678
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,bert-99,Offline,Samples/s,2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,6502.66
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,gptj-99,SingleStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,1437.183344
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,gptj-99,Offline,Tokens/s,2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,1718.33
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,resnet,MultiStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,0.525463
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,resnet,SingleStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,0.332412
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,resnet,Offline,Samples/s,2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,86304.6
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,retinanet,MultiStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,10.391624
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,retinanet,SingleStream,Latency (ms),2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,1.809631
+4.1-0041,Lenovo,available,ThinkEdge SE455 V3 (2x NVIDIA L40S TensorRT),NVIDIA L40S,2,Inference,retinanet,Offline,Samples/s,2,1,NVIDIA L40S,16,AMD EPYC 8124P 16-Core Processor,1629.08
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,3d-unet-99,SingleStream,Latency (ms),2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,1737.387316
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,3d-unet-99,Offline,Samples/s,2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,2.21588
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,bert-99,SingleStream,Latency (ms),2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,2.138389
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,bert-99,Offline,Samples/s,2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,1928.07
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,resnet,MultiStream,Latency (ms),2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,0.750563
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,resnet,SingleStream,Latency (ms),2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,0.386829
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,resnet,Offline,Samples/s,2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,25600
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,retinanet,MultiStream,Latency (ms),2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,32.190689
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,retinanet,SingleStream,Latency (ms),2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,3.814301
+4.1-0042,Lenovo,available,ThinkEdge SE360 V2 (2x NVIDIA L4 TensorRT),NVIDIA L4,2,Inference,retinanet,Offline,Samples/s,2,1,NVIDIA L4,16,Intel(R) Xeon(R) D-2775TE,453.667
+4.1-0051,NVIDIA,available,NVIDIA Jetson AGX Orin Developer Kit 64G (TensorRT),NVIDIA Jetson AGX Orin 64G,1,Inference,gptj-99,SingleStream,Latency (ms),1,1,NVIDIA Jetson AGX Orin 64G,12,12-core ARM Cortex-A78AE CPU,4176.62608
+4.1-0051,NVIDIA,available,NVIDIA Jetson AGX Orin Developer Kit 64G (TensorRT),NVIDIA Jetson AGX Orin 64G,1,Inference,gptj-99,Offline,Tokens/s,1,1,NVIDIA Jetson AGX Orin 64G,12,12-core ARM Cortex-A78AE CPU,64.4734
+4.1-0051,NVIDIA,available,NVIDIA Jetson AGX Orin Developer Kit 64G (TensorRT),NVIDIA Jetson AGX Orin 64G,1,Inference,stable-diffusion-xl,SingleStream,Latency (ms),1,1,NVIDIA Jetson AGX Orin 64G,12,12-core ARM Cortex-A78AE CPU,9966.781359
+4.1-0051,NVIDIA,available,NVIDIA Jetson AGX Orin Developer Kit 64G (TensorRT),NVIDIA Jetson AGX Orin 64G,1,Inference,stable-diffusion-xl,Offline,Samples/s,1,1,NVIDIA Jetson AGX Orin 64G,12,12-core ARM Cortex-A78AE CPU,0.101697
+4.1-0067,UntetherAI,available,Supermicro SuperServer H13 (1x speedAI240 Slim),UntetherAI speedAI240 Slim,1,Inference,resnet,MultiStream,Latency (ms),1,1,UntetherAI speedAI240 Slim,16,AMD EPYC 9124 16-Core Processor,0.285447
+4.1-0067,UntetherAI,available,Supermicro SuperServer H13 (1x speedAI240 Slim),UntetherAI speedAI240 Slim,1,Inference,resnet,SingleStream,Latency (ms),1,1,UntetherAI speedAI240 Slim,16,AMD EPYC 9124 16-Core Processor,0.121029
+4.1-0067,UntetherAI,available,Supermicro SuperServer H13 (1x speedAI240 Slim),UntetherAI speedAI240 Slim,1,Inference,resnet,Offline,Samples/s,1,1,UntetherAI speedAI240 Slim,16,AMD EPYC 9124 16-Core Processor,56277.1
+4.1-0068,UntetherAI,available,Supermicro SuperServer H13 (3x speedAI240 Slim),UntetherAI speedAI240 Slim,3,Inference,resnet,MultiStream,Latency (ms),3,1,UntetherAI speedAI240 Slim,16,AMD EPYC 9124 16-Core Processor,0.212477
+4.1-0068,UntetherAI,available,Supermicro SuperServer H13 (3x speedAI240 Slim),UntetherAI speedAI240 Slim,3,Inference,resnet,SingleStream,Latency (ms),3,1,UntetherAI speedAI240 Slim,16,AMD EPYC 9124 16-Core Processor,0.120438
+4.1-0068,UntetherAI,available,Supermicro SuperServer H13 (3x speedAI240 Slim),UntetherAI speedAI240 Slim,3,Inference,resnet,Offline,Samples/s,3,1,UntetherAI speedAI240 Slim,16,AMD EPYC 9124 16-Core Processor,168720
+4.1-0069,UntetherAI,available,Dell PowerEdge R760xa (4x speedAI240 Slim),UntetherAI speedAI240 Slim,4,Inference,resnet,MultiStream,Latency (ms),4,1,UntetherAI speedAI240 Slim,32,Intel(R) Xeon(R) Gold 6448Y,0.169333
+4.1-0069,UntetherAI,available,Dell PowerEdge R760xa (4x speedAI240 Slim),UntetherAI speedAI240 Slim,4,Inference,resnet,SingleStream,Latency (ms),4,1,UntetherAI speedAI240 Slim,32,Intel(R) Xeon(R) Gold 6448Y,0.124016
+4.1-0069,UntetherAI,available,Dell PowerEdge R760xa (4x speedAI240 Slim),UntetherAI speedAI240 Slim,4,Inference,resnet,Offline,Samples/s,4,1,UntetherAI speedAI240 Slim,32,Intel(R) Xeon(R) Gold 6448Y,221845
+4.1-0077,UntetherAI,preview,Supermicro SuperServer H13 (1x speedAI240 Preview),UntetherAI speedAI240 Preview,1,Inference,resnet,MultiStream,Latency (ms),1,1,UntetherAI speedAI240 Preview,16,AMD EPYC 9124 16-Core Processor,0.290617
+4.1-0077,UntetherAI,preview,Supermicro SuperServer H13 (1x speedAI240 Preview),UntetherAI speedAI240 Preview,1,Inference,resnet,SingleStream,Latency (ms),1,1,UntetherAI speedAI240 Preview,16,AMD EPYC 9124 16-Core Processor,0.119199
+4.1-0077,UntetherAI,preview,Supermicro SuperServer H13 (1x speedAI240 Preview),UntetherAI speedAI240 Preview,1,Inference,resnet,Offline,Samples/s,1,1,UntetherAI speedAI240 Preview,16,AMD EPYC 9124 16-Core Processor,70348.2
+4.1-0078,UntetherAI,preview,Supermicro SuperServer H13 (2x speedAI240 Preview),UntetherAI speedAI240 Preview,2,Inference,resnet,MultiStream,Latency (ms),2,1,UntetherAI speedAI240 Preview,16,AMD EPYC 9124 16-Core Processor,0.208008
+4.1-0078,UntetherAI,preview,Supermicro SuperServer H13 (2x speedAI240 Preview),UntetherAI speedAI240 Preview,2,Inference,resnet,SingleStream,Latency (ms),2,1,UntetherAI speedAI240 Preview,16,AMD EPYC 9124 16-Core Processor,0.118879
+4.1-0078,UntetherAI,preview,Supermicro SuperServer H13 (2x speedAI240 Preview),UntetherAI speedAI240 Preview,2,Inference,resnet,Offline,Samples/s,2,1,UntetherAI speedAI240 Preview,16,AMD EPYC 9124 16-Core Processor,140625
